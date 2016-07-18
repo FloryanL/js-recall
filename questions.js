@@ -1,4 +1,7 @@
 var selectElementsStartingWithA = function(array) {
+    for str('a') {
+        
+    }
     return 'Write your method here';
 }
 
